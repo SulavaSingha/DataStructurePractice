@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Logs/Logs.iml" filepath="$PROJECT_DIR$/../Logs/Logs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MostCommonWord/MostCommonWord.iml" filepath="$PROJECT_DIR$/../MostCommonWord/MostCommonWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberToEnglish.iml" filepath="$PROJECT_DIR$/NumberToEnglish.iml" />
+    </modules>
+  </component>
+</project>

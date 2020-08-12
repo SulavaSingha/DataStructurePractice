@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70bdd3b0-d83f-4d94-839c-54f0995a5ade" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgJck47sdtRWDdcYcNqqD6ku9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Graph (1)">
+    <configuration name="Graph (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph" />
+      <module name="Weighted Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph" />
+      <module name="Graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Graph (1)" />
+        <item itemvalue="Application.Graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70bdd3b0-d83f-4d94-839c-54f0995a5ade" name="Default Changelist" comment="" />
+      <created>1579565385356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579565385356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582626871443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582626871443" />
+    <state x="426" y="172" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1583306390285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="172" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1280.680@0.0.1280.680" timestamp="1583306390285" />
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582969672984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582969672984" />
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1583331720943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1583331720943" />
+    <state width="1281" height="261" key="GridCell.Tab.0.bottom" timestamp="1583567182948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="261" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583567182947" />
+    <state width="1281" height="261" key="GridCell.Tab.0.center" timestamp="1583567182947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="261" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583567182947" />
+    <state width="1281" height="261" key="GridCell.Tab.0.left" timestamp="1583567182947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="261" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583567182947" />
+    <state width="1281" height="261" key="GridCell.Tab.0.right" timestamp="1583567182947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="261" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583567182947" />
+    <state width="1281" height="229" key="GridCell.Tab.1.bottom" timestamp="1583567182944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="229" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583567182944" />
+    <state width="1281" height="229" key="GridCell.Tab.1.center" timestamp="1583567182943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="229" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583567182943" />
+    <state width="1281" height="229" key="GridCell.Tab.1.left" timestamp="1583567182943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="229" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583567182943" />
+    <state width="1281" height="229" key="GridCell.Tab.1.right" timestamp="1583567182944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="229" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583567182944" />
+    <state x="315" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582973575893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1582973575893" />
+    <state x="90" y="0" key="new project wizard" timestamp="1583558790837">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583558790837" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Union.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/Graph.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/Graph.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/UnionGraph.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/KruskalAlgo.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Weighted Graph/src/Graph.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="g" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

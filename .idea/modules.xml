@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Choose a flask.iml" filepath="$PROJECT_DIR$/Choose a flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChooseAFlask.iml" filepath="$PROJECT_DIR$/ChooseAFlask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupOnQuestions/GroupOnQuestions.iml" filepath="$PROJECT_DIR$/GroupOnQuestions/GroupOnQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniquePathWithObstacle.iml" filepath="$PROJECT_DIR$/UniquePathWithObstacle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniquePathWithObstacles.iml" filepath="$PROJECT_DIR$/UniquePathWithObstacles.iml" />
+    </modules>
+  </component>
+</project>

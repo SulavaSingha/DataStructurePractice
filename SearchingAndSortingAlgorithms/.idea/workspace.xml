@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c314b734-908e-48c8-b36f-e893dd26aa6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WsGBuuH9hNw17H8kZA0ttti5EZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.practice.algorithms.Sort" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="InsertionSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.practice.algorithms.Sort.InsertionSort" />
+      <module name="SearchingAndSortingAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c314b734-908e-48c8-b36f-e893dd26aa6c" name="Default Changelist" comment="" />
+      <created>1579930756661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579930756661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="12" key="#InsertionSort" timestamp="1579938314522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="12" key="#InsertionSort/0.0.1280.680@0.0.1280.680" timestamp="1579938314522" />
+    <state x="359" y="0" key="#Unnamed" timestamp="1579935735302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="359" y="0" key="#Unnamed/0.0.1280.680@0.0.1280.680" timestamp="1579935735302" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579938491129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579938491129" />
+    <state x="371" y="122" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579936064327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="122" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1579936064327" />
+    <state x="370" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579936338761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1579936338761" />
+    <state x="438" y="226" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579936068234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="226" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579936068234" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1579931108489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579931108489" />
+    <state width="1281" height="213" key="GridCell.Tab.0.bottom" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.0.center" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.0.left" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.0.right" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom" timestamp="1580013539216">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580013539216" />
+    <state width="1281" height="213" key="GridCell.Tab.1.center" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.1.left" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state width="1281" height="213" key="GridCell.Tab.1.right" timestamp="1580013539215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580013539215" />
+    <state x="315" y="40" key="NewModule_or_Project.wizard" timestamp="1579931098879">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="40" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579931098879" />
+    <state x="91" y="0" key="new project wizard" timestamp="1580013287645">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580013287645" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1579933523690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1579933523690" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/algorithms/Sort/InsertionSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/algorithms/Sort/InsertionSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/algorithms/Sort/InsertionSort.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
